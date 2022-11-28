@@ -8,6 +8,18 @@
 
 body {
     background-color: #f6f8fc;
+    max-width: 100vw;
+    background-image: url(../img/pokeball.png);
+    background-repeat: no-repeat;
+    background-position-x: 14rem;
+    background-position-y: -5rem;
+}
+
+.menu img {
+    right: -5.2rem;
+    top: -5rem;
+    z-index: -1;
+    opacity: .2;
 }
 
 .content {
