@@ -14,12 +14,14 @@ body {
 
 .menu img {
     position: absolute;
-    right: -5rem;
-    top: -5rem;
+    right: -7.5em;
+    top: -3rem;
+    opacity: .45;
     z-index: -1;
 }
 
 .content {
+    margin-top: 3rem;
     padding: 1.5rem;
     background-color: rgba(0, 0, 0, .002);
     height: 100vh;
